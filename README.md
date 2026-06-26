@@ -19,7 +19,7 @@ My current focus is on building a strong foundation in **Programming Logic**, **
         <img
             alt="Seguidores"
             title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/JoaoGabrielSilva-hub?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/JoaoGabrielFerreira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 
