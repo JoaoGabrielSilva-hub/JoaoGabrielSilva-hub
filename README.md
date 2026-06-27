@@ -14,17 +14,6 @@ My name is João Gabriel Ferreira. I'm from Brazil 🇧🇷, I'm 19 years old, a
 
 My current focus is on building a strong foundation in **Programming Logic**, **C**, and **C++**.
 
-<p align="left">
-    <a href="https://github.com/JoaoGabrielSilva-hub">
-        <img
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/JoaoGabrielFerreira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-
-</p>
-
 ---
 
 ## 🚀 Linguagens e Tecnologias || Languages & Technologies
